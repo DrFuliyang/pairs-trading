@@ -1,6 +1,10 @@
 # Pairs Trading Strategy
 
-> Cointegration-based mean reversion strategy for AI coding assistants. Drop into `~/.claude/skills/pairs-trading/SKILL.md` and start building.
+> A pairs-trading workflow specification for AI coding assistants.
+
+[Research hub](https://github.com/DrFuliyang/garch-quant)
+
+This repository contains a README and a `SKILL.md` specification. The functions and examples below describe the intended implementation; a standalone backtest package is not included.
 
 **Features:** Cointegration screening · Z-score signals · Backtest engine · Window optimization · A股/港股/美股适配
 
@@ -10,7 +14,7 @@
 
 ```bash
 mkdir -p ~/.claude/skills/pairs-trading
-curl -sL https://raw.githubusercontent.com/GARCHSigma/pairs-trading/refs/heads/master/SKILL.md \
+curl -sL https://raw.githubusercontent.com/DrFuliyang/pairs-trading/refs/heads/master/SKILL.md \
   -o ~/.claude/skills/pairs-trading/SKILL.md
 ```
 
