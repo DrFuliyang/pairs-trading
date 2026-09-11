@@ -2,7 +2,7 @@
 
 > A pairs-trading workflow specification for AI coding assistants.
 
-[Research hub](https://github.com/DrFuliyang/garch-quant)
+[Research hub](https://github.com/DrFuliyang/research)
 
 This repository contains a README and a `SKILL.md` specification. The functions and examples below describe the intended implementation; a standalone backtest package is not included.
 
